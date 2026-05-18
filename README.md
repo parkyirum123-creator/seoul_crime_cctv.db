@@ -3,6 +3,7 @@ ai 링크 https://aistudio.google.com/prompts/new_chat(프롬포트)
 
 
 
+
 클린징 과정
 
 1."합계","소계"데이터를 제거 
@@ -16,6 +17,7 @@ ai 링크 https://aistudio.google.com/prompts/new_chat(프롬포트)
 5.인구 데이터와 범죄 데이터를 자치구 기준으로 병합
 
 6.연도별 cctv 설치를 24년만 빼고 제거
+
 
 
 
